@@ -5,6 +5,15 @@ between distributed sites, edge networks, and cloud resources.
 
 ---
 
+**Author & Maintainer**
+
+Jack Lui  
+Independent Systems Architect  
+Focus: Distributed Systems, Site-Centric Connectivity, Infrastructure Architecture  
+GitHub: https://github.com/JackLui-io
+
+---
+
 ## What is Site Connectivity?
 
 Site Connectivity is an architectural approach that enables
